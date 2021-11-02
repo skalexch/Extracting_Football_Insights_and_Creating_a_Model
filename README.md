@@ -5,3 +5,6 @@ This notebook has been a simple example with working on football data.\ I starte
     The third model is a sequence model that takes in account the temporal variation of events inside the match.
 
 The obtained accuracy is not-satisfactory (however the sequence model has a slightly higher accuracy), future work can include using NLP techniques with the event descriptions. Other applications can include whether a sequence of events can lead to goal or not, which I will try in the future.
+
+
+Added another notebook with visualizations and KMeans clustering for team similarity.
